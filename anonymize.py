@@ -401,6 +401,11 @@ def save_file(df: pd.DataFrame, path: Path):
 def process_files():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    if not DATA_DIR.exists():
+        print(f"[!] Data directory '{DATA_DIR}' does not exist.")
+        print(f"    Please create it and place your SMS export file(s) (.csv / .xlsx / .xls) inside.")
+        return
+
     supported = {".csv", ".xlsx", ".xls"}
     files = sorted(
         f for f in DATA_DIR.iterdir()
