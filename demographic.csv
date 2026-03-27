@@ -1,0 +1,12 @@
+userID,Age / Age range,Gender,Profession / Occupation category,Education level,Monthly income range,Geographic zone,Household size,Primary use of mobile money,Smartphone ownership
+USER_1663,18 - 25,Male,Student,University – Undergraduate,"50,000 – 150,000 FCFA",Urban (city centre),7+,Both,Yes
+USER_1665,26 - 35,Male,Self-employed,University – Postgraduate,Prefer not to say,Urban (city centre),1,Both,Yes
+USER_1657,46 - 60,Female,Salaried employee,University – Postgraduate,"300,001 – 500,000 FCFA",Suburban,7+,Both,Yes
+USER_1659,18 - 25,Male,Student,University – Undergraduate,"< 50,000 FCFA",Urban (city centre),2 - 3,Personal,Yes
+USER_1660,18 - 25,Male,Student,University – Postgraduate,"50,000 – 150,000 FCFA",Urban (city centre),1,Both,Yes
+USER_1664,26 - 35,Female,Student,University – Postgraduate,"150,001 – 300,000 FCFA",Urban (city centre),1,Both,Yes
+USER_1658,46 - 60,Male,Salaried employee,University – Postgraduate,"300,001 – 500,000 FCFA",Suburban,7+,Business,Yes
+USER_1666,18 - 25,Female,Student,University – Undergraduate,Prefer not to say,Urban (city centre),7+,Personal,Yes
+USER_1661,26 - 35,Male,Salaried employee,University – Postgraduate,Prefer not to say,Urban (city centre),1,Personal,Yes
+USER_1662,18 - 25,Male,Self-employed,University – Undergraduate,Prefer not to say,Urban (city centre),4 - 6,Both,Yes
+USER_1667,18 - 25,Female,Student,University – Undergraduate,"< 50,000 FCFA",Suburban,4 - 6,Personal,Yes
