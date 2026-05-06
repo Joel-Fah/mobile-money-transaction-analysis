@@ -1,0 +1,43 @@
+Exported on 2026-03-21 14:56 with SMS Exporter android app https://smartpositive.com/sms-exporter
+
+
+Date,Time,Direction,Contact,Phone,Content,Type
+2025-12-08,18:12:09,Received,MTN MoMo,MTN MoMo,"Yello, ANNICK CINDY MEFO NONO FAH, votre compte mobile money a ete enregistre avec success le. 2025-12-08 18:12:09.",SMS
+2025-12-08,18:13:35,Received,MTN MoMo,MTN MoMo,Yello ANNICK CINDY MEFO NONO FAH. Bienvenue sur MTN Mobile Money. Votre compte Mobile Money a bien ete cree et active.,SMS
+2025-12-08,18:13:37,Received,MTN MoMo,MTN MoMo,"Vous avez recu un transfert de 100FCFA de ANNICK CINDY MEFO NONO FAH (2290191100388) le 2025-12-08 18:13:35. Reference: Activation bonus of 100, welcome to the Yello world. Nouveau solde: 100 FCFA. ID de la transaction : 11094868746..",SMS
+2025-12-14,12:46:32,Received,MTN MoMo,MTN MoMo,Transfert 3000F de BARBINE KELLIE MOUNAMO CHOUDJEM (2290166682462) 2025-12-14 12:46:31 Ref:1 Solde:3100F ID:11130821805,SMS
+2025-12-23,14:15:17,Received,MTN MoMo,MTN MoMo,<#> Y'ello. Entrez le code suivant :5941 pour finaliser votre login. Soyez prudent. NE PARTAGEZ PAS ce code. RdbS6eMOXvx > N/RywfrtIZL>,SMS
+2025-12-23,14:20:08,Received,MTN MoMo,MTN MoMo,Paiement 100F a BUY AIRTIME 2025-12-23 14:20:09 Frais:0F Solde:3000F ID:11191178274 Ref:-,SMS
+2026-01-07,10:45:45,Received,MTN MoMo,MTN MoMo,Paiement 200F a BUY AIRTIME 2026-01-07 10:45:46 Frais:0F Solde:2800F ID:11288082416 Ref:-,SMS
+2026-01-12,15:26:19,Received,MTN MoMo,MTN MoMo,Paiement 1000F a MFS TresorP Collection SP  2026-01-12 15:26:21 Frais:10F Solde:1790F ID:11318247482 Ref:FPID 12762387 Paiement  Certificat dIdentification,SMS
+2026-01-17,18:06:05,Received,MTN MoMo,MTN MoMo,Transfert 100000F de NADIA NTOUALA NOUKAYABA (2290166058454) 2026-01-17 18:06:07 Ref:kmer Solde:101790F ID:11349468379,SMS
+2026-01-18,21:24:34,Received,MTN MoMo,MTN MoMo,"Compteur: 22150045940 
+ Code STS: 3509 8268 6585 4055 6744 
+ Kwh: 32.7868852459kwh 
+ Entretien: 0FCFA 
+ Arrieres: 0.00F.",SMS
+2026-01-18,21:24:35,Received,MTN MoMo,MTN MoMo,Paiement 5000F a MFS  DIRECT SBEE 2026-01-18 21:24:35 Frais:50F Solde:96740F ID:11356239743 Ref:-,SMS
+2026-02-08,20:05:11,Received,MTN MoMo,MTN MoMo,Paiement 10000F a BUY DATA 2026-02-08 20:05:13 Frais:0F Solde:86740F ID:11483483393 Ref:-,SMS
+2026-02-09,20:31:23,Received,MTN MoMo,MTN MoMo,Transfert 2800F de FABRICE KOUTON (2290196926040) 2026-02-09 20:31:27 Ref:52 Solde:89540F ID:11490000432,SMS
+2026-02-16,15:40:29,Received,MTN MoMo,MTN MoMo,Retrait 50000F via FLS ADONAI  IFU(CADJEHOUN)(2290150464681 - RBCCM/ABC/23 A 81603) 2026-02-16 15:40:32 Solde:38840F Frais:700F ID:11532204168,SMS
+2026-03-07,17:46:43,Received,MTN MoMo,MTN MoMo,Transfert 203000F de LAURA DOTSOP NAOUSSI (2290161848730) 2026-03-07 17:46:03 Ref:ok Solde:241840F ID:11655053167,SMS
+2026-03-07,18:58:59,Received,MTN MoMo,MTN MoMo,Retrait 3000F via LC OUSSOU LUCIEN  IFU(COTONOU)(2290154237619 - RBCCM RB/COT/24 A 106135) 2026-03-07 18:58:17 Solde:238715F Frais:125F ID:11655539081,SMS
+2026-03-09,14:57:02,Received,MTN MoMo,MTN MoMo,Paiement 500F a BUY AIRTIME 2026-03-09 14:56:20 Frais:0F Solde:238215F ID:11666456564 Ref:-,SMS
+2026-03-11,06:41:49,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 06:41:07. Ref: -, ID de la transaction: 11676630762.",SMS
+2026-03-11,06:42:33,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 06:41:50. Ref: -, ID de la transaction: 11676631642.",SMS
+2026-03-11,06:43:35,Received,MTN MoMo,MTN MoMo,"Votre paiement de 15000 FCFA a BUY DATA a echoue le 2026-03-11 06:42:54. Ref: -, ID de la transaction: 11676632995.",SMS
+2026-03-11,07:32:44,Received,MTN MoMo,MTN MoMo,"Votre paiement de 5000 FCFA a BUY DATA a echoue le 2026-03-11 07:32:01. Ref: -, ID de la transaction: 11676728134.",SMS
+2026-03-11,08:19:07,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 08:18:17. Ref: -, ID de la transaction: 11676899437.",SMS
+2026-03-11,08:43:16,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 08:42:33. Ref: -, ID de la transaction: 11677018567.",SMS
+2026-03-11,09:01:16,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 09:00:33. Ref: -, ID de la transaction: 11677116239.",SMS
+2026-03-11,10:03:28,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 10:02:45. Ref: -, ID de la transaction: 11677513085.",SMS
+2026-03-11,10:06:50,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 10:06:07. Ref: -, ID de la transaction: 11677535511.",SMS
+2026-03-11,15:30:45,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 15:30:03. Ref: -, ID de la transaction: 11679513665.",SMS
+2026-03-11,17:24:30,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 17:23:47. Ref: -, ID de la transaction: 11680173082.",SMS
+2026-03-11,17:42:15,Received,MTN MoMo,MTN MoMo,Paiement 10000F a MTN BUNDLES 2026-03-11 17:41:35 Frais:0F Solde:228215F ID:11680294544 Ref:Frommessage,SMS
+2026-03-11,17:42:20,Received,MTN MoMo,MTN MoMo,Y'ello. MTN BUNDLES (cis.sp) a effectue un remboursement de 10000 FCFA dans votre compte Mobile Money le 2026-03-11 17:41:36. Message: Optional.absent(). Nouveau solde: 238215 FCFA. ID de la transaction: 11680296009.,SMS
+2026-03-11,17:44:38,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY AIRTIME a echoue le 2026-03-11 17:43:55. Ref: -, ID de la transaction: 11680312472.",SMS
+2026-03-11,18:32:55,Received,MTN MoMo,MTN MoMo,"Votre paiement de 10000 FCFA a BUY DATA a echoue le 2026-03-11 18:32:12. Ref: -, ID de la transaction: 11680640024.",SMS
+2026-03-12,10:25:55,Received,MTN MoMo,MTN MoMo,Payment 100F to BUY AIRTIME 2026-03-12 10:25:14 Fees:0F Balance:238115F ID:11684144444 Ref:-,SMS
+2026-03-12,10:27:04,Received,MTN MoMo,MTN MoMo,Payment 10000F to BUY DATA 2026-03-12 10:26:17 Fees:0F Balance:228115F ID:11684151619 Ref:-,SMS
+2026-03-18,19:49:45,Received,MTN MoMo,MTN MoMo,Transfer 1600F from FABRICE KOUTON (2290196926040) 2026-03-18 19:49:05 Ref:1 Balance:229715F ID:11725202080,SMS

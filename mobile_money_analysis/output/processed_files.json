@@ -1,0 +1,148 @@
+{
+  "processed_files": [
+    {
+      "filename": "Messages avec MobileMoney 2026-03-20 21-32-36 - Madeleine Tchayo.csv",
+      "hash": "9a98e82340ff7828",
+      "processed_at": "2026-05-05 22:09:29",
+      "user_alias": "USER_1",
+      "confirmed_name": "Marie madeleine Tchayo",
+      "confirmed_phone": "652024079",
+      "transactions_added": 147
+    },
+    {
+      "filename": "Messages avec MobileMoney 2026-03-22 12_27_25 - Jacques Fah.csv",
+      "hash": "ead4ded554653490",
+      "processed_at": "2026-05-05 22:09:56",
+      "user_alias": "USER_2",
+      "confirmed_name": "JACOB FAH",
+      "confirmed_phone": "678003120",
+      "transactions_added": 315
+    },
+    {
+      "filename": "Messages avec OrangeMoney 2026-03-20 21-31-49 - Madeleine Tchayo.csv",
+      "hash": "a950ef3572a24063",
+      "processed_at": "2026-05-05 22:10:29",
+      "user_alias": "USER_3",
+      "confirmed_name": "TCHAYO",
+      "confirmed_phone": "699329183",
+      "transactions_added": 894
+    },
+    {
+      "filename": "Messages avec OrangeMoney 2026-03-20 22_05_33 - Pascal Esaïe BOUGONG A ABEGA.csv",
+      "hash": "daf1bfeb64a02196",
+      "processed_at": "2026-05-05 22:10:42",
+      "user_alias": "USER_4",
+      "confirmed_name": "Bedibiki bougong",
+      "confirmed_phone": "657604872",
+      "transactions_added": 147
+    },
+    {
+      "filename": "Messages avec OrangeMoney 2026-03-21 11_16_17 - DAVIS JERRY.csv",
+      "hash": "651a543bd4259ce9",
+      "processed_at": "2026-05-05 22:11:00",
+      "user_alias": "USER_5",
+      "confirmed_name": "NDJANA MENGUE",
+      "confirmed_phone": "697692981",
+      "transactions_added": 1525
+    },
+    {
+      "filename": "Messages avec OrangeMoney 2026-03-22 12_28_16 - Jacques Fah.csv",
+      "hash": "e650cda343cfb2b7",
+      "processed_at": "2026-05-05 22:11:09",
+      "user_alias": "USER_6",
+      "confirmed_name": "FAH",
+      "confirmed_phone": "699663071",
+      "transactions_added": 862
+    },
+    {
+      "filename": "Messages avec OrangeMoney 2026-03-23 014528 - Manuel Karim.csv",
+      "hash": "51938a12ef9e87ed",
+      "processed_at": "2026-05-05 22:11:15",
+      "user_alias": "USER_7",
+      "confirmed_name": "ABOLO",
+      "confirmed_phone": "695247258",
+      "transactions_added": 518
+    },
+    {
+      "filename": "Messages avec OrangeMoney Brown 2026-03-23 083311 - Brown Takou.csv",
+      "hash": "3178c63969a8475f",
+      "processed_at": "2026-05-05 22:11:29",
+      "user_alias": "USER_8",
+      "confirmed_name": "DJOUTSOP TAKOU",
+      "confirmed_phone": "656614565",
+      "transactions_added": 58
+    },
+    {
+      "filename": "Messages with MobileMoney 2026-03-20 21_13_48 - Dejon Fah Joël Xavier.csv",
+      "hash": "a527650df6196f2f",
+      "processed_at": "2026-05-05 22:14:04",
+      "user_alias": "USER_9",
+      "confirmed_name": "JOEL XAVIER DEJON FAH",
+      "confirmed_phone": "653415650",
+      "transactions_added": 455
+    },
+    {
+      "filename": "Messages with MobileMoney 2026-03-25 145028.xlsx",
+      "hash": "efe45a0350401cff",
+      "processed_at": "2026-05-05 22:17:21",
+      "user_alias": "USER_10",
+      "confirmed_name": "GENESIS MUDOH TEYIM",
+      "confirmed_phone": "681407243",
+      "transactions_added": 795
+    },
+    {
+      "filename": "Messages with MobileMoney 2026-03-26 162041.xlsx",
+      "hash": "770efbfbd3a088c6",
+      "processed_at": "2026-05-05 22:18:33",
+      "user_alias": "USER_11",
+      "confirmed_name": "EMILE AGWENJANG TEYIM",
+      "confirmed_phone": "674547802",
+      "transactions_added": 315
+    },
+    {
+      "filename": "Messages with OrangeMoney 2026-03-20 212842 - Fah Rommel.csv",
+      "hash": "5be315372213de42",
+      "processed_at": "2026-05-05 22:19:31",
+      "user_alias": "USER_12",
+      "confirmed_name": "YRVING ROMMEL",
+      "confirmed_phone": "696255169",
+      "transactions_added": 104
+    },
+    {
+      "filename": "Messages with OrangeMoney 2026-03-20 21_13_04 - Dejon Fah Joël Xavier.csv",
+      "hash": "e6382d4ee2864bab",
+      "processed_at": "2026-05-05 22:19:41",
+      "user_alias": "USER_13",
+      "confirmed_name": "Dejon fah",
+      "confirmed_phone": "656997810",
+      "transactions_added": 419
+    },
+    {
+      "filename": "Messages with OrangeMoney 2026-03-22 182907 (1) - Joyce Serena NDJANA BIDZOGO.csv",
+      "hash": "14b7d946ae22f89a",
+      "processed_at": "2026-05-05 22:19:53",
+      "user_alias": "USER_14",
+      "confirmed_name": "NDJANA BIDZOGO",
+      "confirmed_phone": "691139229",
+      "transactions_added": 722
+    },
+    {
+      "filename": "Messages with OrangeMoney 2026-03-23 22_06_06 - Anne Onguene.csv",
+      "hash": "8801b095f64b2583",
+      "processed_at": "2026-05-05 22:20:00",
+      "user_alias": "USER_15",
+      "confirmed_name": "ONGUENE LENA",
+      "confirmed_phone": "694096320",
+      "transactions_added": 467
+    },
+    {
+      "filename": "MOMO Mecos - Michelle Mfanga.xlsx",
+      "hash": "ea50f451060bfd67",
+      "processed_at": "2026-05-05 22:25:54",
+      "user_alias": "USER_16",
+      "confirmed_name": "JONATHAN BEGUELEGNE MFANGA",
+      "confirmed_phone": "673852779",
+      "transactions_added": 54
+    }
+  ]
+}
