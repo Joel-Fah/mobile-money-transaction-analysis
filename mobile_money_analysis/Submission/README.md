@@ -1,4 +1,4 @@
-# Final Assessment: Complete Data Science Project - Mobile Money Transaction Analysis
+# Complete Data Science Project - Mobile Money Transaction Analysis
 
 ## Group Members
 
@@ -6,40 +6,62 @@
 2. ACHA BLESSING - ICTU20234240
 3. KUMIGHEM BRYAN KENAH - ICTU20234149
 
-## Project Title
+## Project Overview
 
-Mobile Money Transaction Analysis
+This repository holds a comprehensive end-to-end data science pipeline analyzing mobile money transactions. Our goal is to understand consumer behavior and predict the activity tiers (Low, Medium, High) of users based on transaction records. We processed over 7,700 transactions for a volume of ~140M XAF, extracting meaning from data, validating hypotheses, and training multi-class classification models.
 
-## File Structure Explanation
+## Project Pipeline
 
-The project is organized into the following directories corresponding to the data science pipeline:
+### 1. [Data Collection](1_Data_Collection)
+The foundation of our project is built on securely anonymized datasets representing user transactions. 
+- **Files:** [
+aw_data_anonymized.csv](1_Data_Collection/raw_data_anonymized.csv)
 
-*   **1_Data_Collection/**: Contains the initial collected and anonymized dataset (`raw_data_anonymized.csv`).
-*   **2_Data_Cleaning/**: Contains the data cleaning Jupyter Notebook (`data_cleaning.ipynb`), the resulting clean dataset (`cleaned_data.csv`), and the data cleaning report (`data_cleaning_report.md`).
-*   **3_EDA/**: Contains the exploratory data analysis notebook (`exploratory_analysis.ipynb`) and generated visualization assets in the `visualizations/` folder.
-*   **4_Modeling/**: Contains the machine learning scripts and notebooks (`modeling.ipynb`, `run_modeling.py`) and the `results/` directory which saves outputs like classification reports, feature importance, and model comparisons.
-*   **5_Report/**: Contains final project reports and presentation materials.
+### 2. [Data Cleaning](2_Data_Cleaning)
+In the cleaning step, we rectified missing values, parsed date components, handled duplicates, generated necessary categorical groupings, and prepared behavioral metrics such as send-receive ratios and volume distributions.
+- **Workflow:** [data_cleaning.ipynb](2_Data_Cleaning/data_cleaning.ipynb) 
+- **Generated Clean Data:** [cleaned_data.csv](2_Data_Cleaning/cleaned_data.csv)
+
+### 3. [Exploratory Data Analysis (EDA)](3_EDA)
+Through systematic numerical and visual data exploration, we investigated seasonal variation, volume-level disparities among demographic groups, and pinpointed actionable patterns predicting user financial tiers.
+
+**Key Visualizations:**
+*   ![Distribution of Activity](3_EDA/visualizations/01_distributions.png)  
+    *Highlights the right-skewed distribution of transactions (a few high-activity users drive most of the volume).*
+*   ![Correlation Heatmap](3_EDA/visualizations/04_correlation_heatmap.png)  
+    *Shows relationships confirming that Total Transactions (	otal_transactions) heavily influences Activity Tiers.*
+*   ![Income vs Volume](3_EDA/visualizations/06_scatter_income_volume.png)  
+    *Demonstrates the complex linkage between a user's declared income and outgoing transaction volume.*
+
+**Key Findings:**
+- Usage is dominated by "OUT" flow transactions (84.3% spent/sent).
+- Highly active periods fall within general business hours (08:00 - 19:00).
+- Users can be accurately bucketed into financial activity groups based on behavioral trends (weekend ratio, number of monthly transactions).
+
+- **Execution:** [Exploratory_analysis.ipynb](3_EDA/exploratory_analysis.ipynb) or [
+run_eda.py](3_EDA/run_eda.py)
+- **Detailed EDA Insights:** [key_insights.md](3_EDA/key_insights.md)
+
+### 4. [Modeling](4_Modeling)
+We transformed our cleaned data into predictive variables to assign an activity-tier label (High, Medium, Low) to a user based on their underlying transaction metrics.
+
+**Model Highlights & Results:**
+A variety of models were tested, including Logistic Regression, k-Nearest Neighbors, Decision Trees, Random Forest, and Gradient Boosting.
+- **Best Model:** **Gradient Boosting Classifier**
+- **Validation Accuracy:** 68.75% (Significantly outperforming the 31.25% baseline)
+- **Performance Details:** [model_comparison.csv](4_Modeling/results/model_comparison.csv) and [classification_report.txt](4_Modeling/results/classification_report.txt)
+- **Workflow:** [modeling.ipynb](4_Modeling/modeling.ipynb) or [
+un_modeling.py](4_Modeling/run_modeling.py).
 
 ## How to run the code
 
-1.  **Data Cleaning**: Navigate to `2_Data_Cleaning/` and run `data_cleaning.ipynb` to process the raw data into `cleaned_data.csv`.
-2.  **Exploratory Data Analysis**: Navigate to `3_EDA/` and run `exploratory_analysis.ipynb` to generate visual insights and summary statistics.
-3.  **Modeling**: 
-    *   You can run the interactive notebook `4_Modeling/modeling.ipynb`.
-    *   Alternatively, execute the Python script from your terminal: `python 4_Modeling/run_modeling.py`. This will train the models and output the performance metrics in the `4_Modeling/results/` directory.
+1.  Navigate to the repository root directory.
+2.  Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    *(Or install manually: pip install pandas numpy matplotlib seaborn scikit-learn jupyter)*
+3.  **Data Cleaning:** Run 2_Data_Cleaning/data_cleaning.ipynb
+4.  **EDA:** Run 3_EDA/run_eda.py or work interactively with 3_EDA/exploratory_analysis.ipynb
+5.  **Modeling:** Run 4_Modeling/run_modeling.py to regenerate results, or use 4_Modeling/modeling.ipynb for detailed walkthroughs.
 
-## Dependencies / requirements
-
-To run the notebooks and scripts, ensure you have the following installed:
-*   Python 3.8+
-*   pandas
-*   numpy
-*   matplotlib
-*   seaborn
-*   scikit-learn
-*   jupyter
-
-You can install the required packages using pip:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
