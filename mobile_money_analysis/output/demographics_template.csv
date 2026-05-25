@@ -1,0 +1,17 @@
+﻿UserId,Age_range,Gender,Occupation,Education_level,Monthly_income_range,Geographic_zone,Household_size,Primary_MM_use,Smartphone_ownership
+USER_1,46-60,F,Salaried employee,University – Postgraduate,300001-500000,Suburban ,7+,Both personal and business,Yes
+USER_2,46-60,M,Salaried employee,University – Postgraduate,300001-500000,Suburban ,7+,Both personal and business,Yes
+USER_3,46-60,F,Salaried employee,University – Postgraduate,300001-500000,Suburban ,7+,Both personal and business,Yes
+USER_4,18-25,M,Student ,University – Undergraduate,<50000,Urban,2-3,Personal use only,Yes
+USER_5,18-25,M,Student,University – Postgraduate,50000-150000,Urban,1,Both personal and business,Yes
+USER_6,46-60,M,Salaried employee,University – Postgraduate,300001-500000,Suburban ,7+,Both personal and business,Yes
+USER_7,26-35,M,Salaried employee,University – Postgraduate,,Urban,1,Personal use only,Yes
+USER_8,18-25,M,Self-employed,University – Undergraduate,,Urban,4-6,Both personal and business,Yes
+USER_9,18-25,M,Student ,University – Undergraduate,50000-150000,Suburban ,7+,Both personal and business,Yes
+USER_10,,,,,,,,,
+USER_11,26-35,M,Self-employed,University – Postgraduate,,Suburban ,1,Both personal and business,
+USER_12,,,,,,,,,
+USER_13,18-25,M,Student ,University – Undergraduate,50000-150000,Suburban ,7+,Both personal and business,Yes
+USER_14,18-25,F,Student,University – Undergraduate,,Urban,7+,Personal use only,Yes
+USER_15,18-25,F,Student ,University – Undergraduate,<50000,Suburban ,4-6,Personal use only,Yes
+USER_16,18-25,F,Salaried employee,University – Undergraduate,50000-150000,Urban,4-6,Both personal and business,Yes
